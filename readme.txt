@@ -1,3 +1,4 @@
 This is git on MacOS
 Try to modify
-Creating a new branch is quick.
+Creating a new branch is quick
+Branch master.
